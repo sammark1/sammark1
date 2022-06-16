@@ -1,4 +1,4 @@
-<h1 align="center">Heyo, I'm Samuel Mark</h1>
+<h1 align="center">Hello, I'm Samuel Mark</h1>
 <h3 align="center">An Innovative Full Stack Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sammark1&label=Profile%20views&color=0e75b6&style=flat" alt="sammark1" /> </p>
