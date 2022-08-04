@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Compend](https://github.com/sammark1/Compend)
 
-- 🌱 I’m currently learning **Three.js**
+- 🌱 I’m currently learning **React Native**
 
 - 👨‍💻 All of my projects are available at [https://sammark1.github.io/sammark-portfolio/](https://sammark1.github.io/sammark-portfolio/)
 
