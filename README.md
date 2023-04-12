@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Compend](https://github.com/sammark1/Compend)
 
-- 🌱 I’m currently learning **Typescript & React Native**
+- 🌱 I’m currently learning **Typescript & Flutter**
 
 - 👨‍💻 All of my projects are available at [https://sammark1.github.io/sammark-portfolio/](https://sammark1.github.io/sammark-portfolio/)
 
